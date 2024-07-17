@@ -1,5 +1,5 @@
-CREATE DATABASE onlyoffice;
-GO
+-- CREATE DATABASE onlyoffice;
+-- GO
 
 USE onlyoffice;
 
